@@ -2,6 +2,11 @@
 
 baseURL: https://arnauddiemer.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: d5da8cba-6629-4673-bdcb-00e386fac81c
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
